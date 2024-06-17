@@ -15,6 +15,10 @@ metadata:
       icon: code
   annotations:
     backstage.io/accreditation: Team2
+    backstage.io/environment: Development
+    backstage.io/maturity_level: Level-1
+    backstage.io/slo: 99.99%
+    backstage.io/deployment_type: Apigee
 spec:
   type: openapi
   lifecycle: experimental
