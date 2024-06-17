@@ -19,4 +19,4 @@ spec:
   type: openapi
   lifecycle: experimental
   definition:
-    $text: ./petstore.oas.yaml
+    $text: ../testing_user/petstore.oas.yaml
