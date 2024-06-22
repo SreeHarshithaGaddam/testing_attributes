@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: testing_type_and_lifecycle
+  name: testing_no_version_and_owner
   annotations:
     backstage.io/version: "false"
 spec:
