@@ -7,5 +7,5 @@ metadata:
 spec:
   type: "undefined"
   lifecycle: "undefined"
-  owner: "undefined"
+  owner: "no_owner"
   definition: "undefined"
