@@ -2,10 +2,6 @@ apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
   name: testing_type_and_lifecycle
-  description: The petstore API
-  tags:
-    - store
-    - rest
 spec:
   type: "undefined"
   lifecycle: "undefined"
